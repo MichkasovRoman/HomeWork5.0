@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\bin\Debug\net6.0\task43.exe
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\bin\Debug\net6.0\task43.deps.json
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\bin\Debug\net6.0\task43.runtimeconfig.json
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\bin\Debug\net6.0\task43.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\bin\Debug\net6.0\task43.pdb
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.AssemblyInfo.cs
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\refint\task43.dll
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.pdb
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\task43.genruntimeconfig.cache
+C:\Users\student\Desktop\Учеба на GB\HomeWork5.0\task43\obj\Debug\net6.0\ref\task43.dll
